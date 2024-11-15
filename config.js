@@ -3,7 +3,7 @@ require("dotenv").config();
 
 module.exports = {
   //==========================================- MAIN - CONFIGS -==================================================================
-  SESSION_ID: process.env.SESSION_ID || "ZfdlxSTZ#G_NEKT_aKFWRjCF5giUeQEYVDPooj2wg-fKUUi1gbFQ",
+  SESSION_ID: process.env.SESSION_ID || "1LUlGTBR#MDa9KKvnfvD5VmrZOXfi-6Yu9DNm7--4kyf-9KwcoKA",
   // ADD Your Session Id 
   MONGODB: process.env.MONGODB || "mongodb+srv://kulathungaasitha319:yjHB0DvFfStNfwPS@cluster0.3oijd.mongodb.net/",
     // ADD Your MongoDB Database URL
@@ -54,7 +54,7 @@ module.exports = {
 
 *🙃 PREFIX:* .
 
-*🙃 OWNER '919382613861'
+*🙃 OWNER 919382613861
 
 
 _Thank you for using_ *👨‍💻MALVIN MD🥰.*
